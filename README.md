@@ -1,5 +1,6 @@
 # EmaiAddressCreator
 Udemy project
+
 Your application should do the following: 
 1. Generate an email with the following syntax: firstname.lastname@department.company.com 
 2. Determine the department (sales, development, accounting), if none leave blank 
